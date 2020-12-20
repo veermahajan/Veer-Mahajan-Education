@@ -1,4 +1,4 @@
-### On this educational website, you can learn about many different things. I also have a YouTube channel with more videos, and I upload about once a week.
+### On this educational website, you can learn about many different things. I also have a YouTube channel with more videos, and I upload about once a week. <br>You can find my YouTube channel <a target="_blank" href="https://www.youtube.com/c/VeerMahajan">here</a>
 
 <!--
 **veermahajan/veermahajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
